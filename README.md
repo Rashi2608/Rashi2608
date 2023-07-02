@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently pursuing my B.Tech in Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning. 
-- 💻 I have a keen interest in Competitive Programming, Software Development, Web and Android Development, AI, and Open Source. 
+- 💻 I have a keen interest in Competitive Programming, Python Development, Full Stack Development, AI, and Open Source. 
 - 💡 I love solving real life problems through technology. 
 - 🖱 Nowadays, I'm building up my DSA skills with leetcode and hackerrank.
 - 📫 How to reach me **rashisharma2613@gmail.com**
